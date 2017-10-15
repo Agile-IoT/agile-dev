@@ -1,0 +1,42 @@
+[submodule "agile-stack"]
+	path = agile-stack
+	url = https://github.com/Agile-IoT/agile-stack.git
+[submodule "agile-cli"]
+	path = agile-cli
+	url = https://github.com/Agile-IoT/agile-cli.git
+[submodule "modules/agile-core"]
+	path = modules/agile-core
+	url = https://github.com/Agile-IoT/agile-core.git
+[submodule "modules/agile-data"]
+	path = modules/agile-data
+	url = https://github.com/Agile-IoT/agile-data.git
+[submodule "modules/agile-dbus"]
+	path = modules/agile-dbus
+	url = https://github.com/Agile-IoT/agile-dbus.git
+[submodule "modules/agile-security"]
+	path = modules/agile-security
+	url = https://github.com/Agile-IoT/agile-security.git
+[submodule "modules/agile-recommender"]
+	path = modules/agile-recommender
+	url = https://github.com/Agile-IoT/agile-recommender.git
+[submodule "modules/gui/agile-osjs"]
+	path = modules/gui/agile-osjs
+	url = https://github.com/Agile-IoT/agile-osjs.git
+[submodule "modules/gui/agile-ui"]
+	path = modules/gui/agile-ui
+	url = https://github.com/Agile-IoT/agile-ui.git
+[submodule "modules/gui/agile-nodered"]
+	path = modules/gui/agile-nodered
+	url = https://github.com/Agile-IoT/agile-nodered.git
+[submodule "modules/protocol/agile-ble"]
+	path = modules/protocol/agile-ble
+	url = https://github.com/Agile-IoT/agile-ble.git
+[submodule "modules/protocol/agile-dummy"]
+	path = modules/protocol/agile-dummy
+	url = https://github.com/Agile-IoT/agile-dummy.git
+[submodule "dev/agile-api-spec"]
+	path = dev/agile-api-spec
+	url = https://github.com/Agile-IoT/agile-api-spec.git
+[submodule "dev/agile-sdk"]
+	path = dev/agile-sdk
+	url = https://github.com/Agile-IoT/agile-sdk.git
