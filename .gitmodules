@@ -40,3 +40,9 @@
 [submodule "dev/agile-sdk"]
 	path = dev/agile-sdk
 	url = https://github.com/Agile-IoT/agile-sdk.git
+[submodule "modules/protocol/agile-iotivity"]
+	path = modules/protocol/agile-iotivity
+	url = https://github.com/Agile-IoT/agile-iotivity.git
+[submodule "modules/protocol/agile-makers-shield-software"]
+	path = modules/protocol/agile-makers-shield-software
+	url = https://github.com/Agile-IoT/agile-makers-shield-software
