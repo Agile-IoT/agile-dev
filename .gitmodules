@@ -46,3 +46,6 @@
 [submodule "modules/protocol/agile-makers-shield-software"]
 	path = modules/protocol/agile-makers-shield-software
 	url = https://github.com/Agile-IoT/agile-makers-shield-software
+[submodule "dev/agile-api-generator"]
+	path = dev/agile-api-generator
+	url = https://github.com/Agile-IoT/agile-api-generator.git
