@@ -49,3 +49,6 @@
 [submodule "dev/agile-api-generator"]
 	path = dev/agile-api-generator
 	url = https://github.com/Agile-IoT/agile-api-generator.git
+[submodule "modules/agile-kura"]
+	path = modules/agile-kura
+	url = https://github.com/Agile-IoT/agile-kura.git
