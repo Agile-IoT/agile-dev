@@ -11,9 +11,13 @@ Usage
 git submodule update --init --recursive
 ```
 
-- Configure agile-stack to use docker's local build feature
+- Configure agile-stack to use docker's local build feature. On ARM based machines, run
 ```
 cp agile-stack/docker-compose.override.yml.buildall agile-stack/docker-compose.override.yml
+```
+on Intel x86_64, run
+```
+cp agile-stack/docker-compose.override.yml.buildall-x86_64 agile-stack/docker-compose.override.yml
 ```
 
 - Configure agile-stack for your local environment by creating and modifying agile-stack/.env
