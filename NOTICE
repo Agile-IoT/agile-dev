@@ -1,0 +1,42 @@
+# Notices for AGILE and Eclipse AGAIL
+
+This repository gathers a consistent set of the git repositories required to 
+compile and run AGILE from source.
+
+## Declared Project Licenses
+
+The repository is organized into submodules using the git submodule mechanism.
+Each submoudule contains its repective license information. AGILE components
+are made available under the terms of the Eclipse Public License 2.0 which is
+available at https://www.eclipse.org/legal/epl-2.0/ . However, third party
+content is also included in some cases (see below) as dependencies using the git
+submodule mechanism.
+
+SPDX-License-Identifier: EPL-2.0
+
+## Third-party Content
+
+### modules/gui/agile-nodered/node-red-contrib-agile-thingspeak
+
+ * License: MIT
+
+### modules/gui/agile-nodered/node-red-contrib-security-nodes
+
+ * License: MIT
+
+### modules/gui/agile-nodered/secure-nodered
+
+ * License: MIT
+
+### modules/gui/agile-osjs/OS.js
+
+ * License: see modules/gui/agile-osjs/OS.js/LICENSE
+
+## Cryptography
+
+Content may contain encryption software. The country in which you are currently
+may have restrictions on the import, possession, and use, and/or re-export to
+another country, of encryption software. BEFORE using any encryption software,
+please check the country's laws, regulations and policies concerning the import,
+possession, or use, and re-export of encryption software, to see if this is
+permitted.
