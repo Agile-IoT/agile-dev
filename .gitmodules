@@ -52,3 +52,6 @@
 [submodule "modules/agile-kura"]
 	path = modules/agile-kura
 	url = https://github.com/Agile-IoT/agile-kura.git
+[submodule "dev/agile-dbus-java-interface"]
+	path = dev/agile-dbus-java-interface
+	url = https://github.com/Agile-IoT/agile-dbus-java-interface.git
