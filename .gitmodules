@@ -15,7 +15,7 @@
 	url = https://github.com/Agile-IoT/agile-dbus.git
 [submodule "modules/agile-security"]
 	path = modules/agile-security
-	url = https://github.com/Agile-IoT/agile-security.git
+	url = https://github.com/Agile-IoT/agail-security.git
 [submodule "modules/agile-recommender"]
 	path = modules/agile-recommender
 	url = https://github.com/Agile-IoT/agile-recommender.git
